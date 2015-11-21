@@ -1,0 +1,9 @@
+D:\MCA\Sem 2\Research Paper\projectes\SEOtool\SEOtool\bin\SEOtool.dll.config
+D:\MCA\Sem 2\Research Paper\projectes\SEOtool\SEOtool\bin\SEOtool.dll
+D:\MCA\Sem 2\Research Paper\projectes\SEOtool\SEOtool\bin\SEOtool.pdb
+D:\MCA\Sem 2\Research Paper\projectes\SEOtool\SEOtool\bin\HtmlAgilityPack.dll
+D:\MCA\Sem 2\Research Paper\projectes\SEOtool\SEOtool\bin\HtmlAgilityPack.pdb
+D:\MCA\Sem 2\Research Paper\projectes\SEOtool\SEOtool\bin\HtmlAgilityPack.xml
+D:\MCA\Sem 2\Research Paper\projectes\SEOtool\SEOtool\obj\Debug\SEOtool.csprojResolveAssemblyReference.cache
+D:\MCA\Sem 2\Research Paper\projectes\SEOtool\SEOtool\obj\Debug\SEOtool.dll
+D:\MCA\Sem 2\Research Paper\projectes\SEOtool\SEOtool\obj\Debug\SEOtool.pdb
