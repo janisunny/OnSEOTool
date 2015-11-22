@@ -40,6 +40,7 @@ namespace SEOtool
             link = link.Replace("http://", "");
             link = link.Replace("https://", "");
             link = link.Replace("www.", "");
+            link = link + "/";
             var pos = link.IndexOf("/");
             link = link.Substring(0, pos);
             link = "http://" + link;
